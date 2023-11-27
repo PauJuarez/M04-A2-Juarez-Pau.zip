@@ -10,4 +10,4 @@
 4. Apply changes
 	git add E1Github.md
 	git commit -m ""
-	git push origin master
+	git push origin main
